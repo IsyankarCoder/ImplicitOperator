@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImplicitOperator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d0dd49957f87d165652ed20f99f24546c7c2ee1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImplicitOperator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImplicitOperator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

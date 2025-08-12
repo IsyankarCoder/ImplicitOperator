@@ -12,3 +12,4 @@ C:\Repo\NETCORE\Konsol\ImplicitOperator\obj\Debug\net10.0\refint\ImplicitOperato
 C:\Repo\NETCORE\Konsol\ImplicitOperator\obj\Debug\net10.0\ImplicitOperator.pdb
 C:\Repo\NETCORE\Konsol\ImplicitOperator\obj\Debug\net10.0\ImplicitOperator.genruntimeconfig.cache
 C:\Repo\NETCORE\Konsol\ImplicitOperator\obj\Debug\net10.0\ref\ImplicitOperator.dll
+C:\Repo\NETCORE\Konsol\ImplicitOperator\obj\Debug\net10.0\ImplicitOperator.sourcelink.json
