@@ -1,0 +1,14 @@
+C:\Repo\NETCORE\Konsol\ImplicitOperator\bin\Debug\net10.0\ImplicitOperator.exe
+C:\Repo\NETCORE\Konsol\ImplicitOperator\bin\Debug\net10.0\ImplicitOperator.deps.json
+C:\Repo\NETCORE\Konsol\ImplicitOperator\bin\Debug\net10.0\ImplicitOperator.runtimeconfig.json
+C:\Repo\NETCORE\Konsol\ImplicitOperator\bin\Debug\net10.0\ImplicitOperator.dll
+C:\Repo\NETCORE\Konsol\ImplicitOperator\bin\Debug\net10.0\ImplicitOperator.pdb
+C:\Repo\NETCORE\Konsol\ImplicitOperator\obj\Debug\net10.0\ImplicitOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\NETCORE\Konsol\ImplicitOperator\obj\Debug\net10.0\ImplicitOperator.AssemblyInfoInputs.cache
+C:\Repo\NETCORE\Konsol\ImplicitOperator\obj\Debug\net10.0\ImplicitOperator.AssemblyInfo.cs
+C:\Repo\NETCORE\Konsol\ImplicitOperator\obj\Debug\net10.0\ImplicitOperator.csproj.CoreCompileInputs.cache
+C:\Repo\NETCORE\Konsol\ImplicitOperator\obj\Debug\net10.0\ImplicitOperator.dll
+C:\Repo\NETCORE\Konsol\ImplicitOperator\obj\Debug\net10.0\refint\ImplicitOperator.dll
+C:\Repo\NETCORE\Konsol\ImplicitOperator\obj\Debug\net10.0\ImplicitOperator.pdb
+C:\Repo\NETCORE\Konsol\ImplicitOperator\obj\Debug\net10.0\ImplicitOperator.genruntimeconfig.cache
+C:\Repo\NETCORE\Konsol\ImplicitOperator\obj\Debug\net10.0\ref\ImplicitOperator.dll
